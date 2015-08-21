@@ -1,6 +1,6 @@
 {
   "name": "respawn-cluster",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "Spawn a process and restart it if it crashes",
   "repository": "git://github.com/undoZen/respawn.git",
   "author": "undoZen <opensource@undozen.com>",
